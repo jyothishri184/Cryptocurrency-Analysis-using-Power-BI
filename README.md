@@ -12,7 +12,7 @@ Cryptocurrency is a category of digital assets that can be bought, sold, or trad
 5. [License](#license)
 
    
-## Introduction 📍
+## Introduction📍
 This repository provides tools and analyses for gaining insights into the cryptocurrency market. Whether you're a seasoned investor or a newcomer, making informed decisions in this vast and evolving ecosystem can be challenging. The following points outline the key functionalities of this tool:
 
 ## Performance Comparison 🚀
