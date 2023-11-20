@@ -17,8 +17,11 @@ Cryptocurrency is a category of digital assets that can be bought, sold, or trad
 
 ## Performance Comparison 
  🚀 **Compare:** Analyze the performance of four prominent cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Binance Coin (BNB), and XRP (XRP).
+ 
  🚀 **Historical Data:** Evaluate past cryptocurrency performance based on historical data for more informed investment decisions.
+ 
  🚀 **Seasonal Impact:** Analyze the role played by each month of the year in determining profit and loss in cryptocurrency investments.
+ 
  🚀 **Daily Deviation:** Investigate the deviation between the opening and closing values of a cryptocurrency on a daily basis.
 
 ## Why Use This Tool? 
