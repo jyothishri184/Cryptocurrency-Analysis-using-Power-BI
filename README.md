@@ -10,6 +10,7 @@ Cryptocurrency is a category of digital assets that can be bought, sold, or trad
 - [Performance Comparison](#performance-comparison)
 - [Why Use This Tool?](#why-use-this-tool)
 - [Power BI for Data Visualization](#power-bi-for-data-visualization)
+- [Power BI for Data Visualization](#power-bi-for-data-visualization)
 - [License](#license)
 
 ## Introduction📍
