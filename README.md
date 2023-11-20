@@ -10,7 +10,8 @@ Cryptocurrency is a category of digital assets that can be bought, sold, or trad
 3. [Why Use This Tool?](#why-use-this-tool)
 4. [Power BI for Data Visualization](#power-bi-for-data-visualization)
 5. [Power BI Requirements](#power-bi-requirements)
-6. [License](#license)
+6. [Contact](#contact)
+7. [License](#license)
 
    
 ## Introduction
@@ -36,7 +37,33 @@ This project relies on Microsoft Power BI for data visualization. Ensure that yo
 
 - [Download Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 
-## 📬 Contact
+## How to Use This Project Locally
+Follow these steps to use the Cryptocurrency Analysis project on your local machine:
+
+1. **Clone the Repository:**
+   bash: git clone https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-BI.git
+2. **Open Power BI Desktop:**
+   
+Launch Power BI Desktop on your machine.
+3. **Open the Project File:**
+
+Navigate to the cloned repository.
+
+Open the Power BI project file (.pbix) located in the project directory.
+
+4. **Explore and Analyze:**
+
+Interact with the reports and dashboards provided in Power BI Desktop.
+
+Customize and explore the data to gain insights into cryptocurrency performance.
+
+5. **Save and Share:**
+
+Save any changes or customizations you make to the project file.
+Share your findings or customized reports with your team or community.
+   
+
+## Contact
 For any inquiries or feedback regarding the project, feel free to reach out to the creator and maintainer:
 
 **JYOTHI SHRI**
