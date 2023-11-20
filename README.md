@@ -5,14 +5,14 @@
 Cryptocurrency is a category of digital assets that can be bought, sold, or traded securely, utilizing cryptographic methods. Operating independently of banks, cryptocurrencies confirm transactions through decentralized networks. As of the end of 2021, there were 13,669 cryptocurrencies, highlighting the dynamic nature of this digital financial landscape (source: Coin Market Cap).
 
 ### Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](#introduction-📍)
 2. [Performance Comparison](#performance-comparison)
 3. [Why Use This Tool?](#why-use-this-tool)
 4. [Power BI for Data Visualization](#power-bi-for-data-visualization)
 5. [License](#license)
 
    
-## Introduction 
+## Introduction 📍
 This repository provides tools and analyses for gaining insights into the cryptocurrency market. Whether you're a seasoned investor or a newcomer, making informed decisions in this vast and evolving ecosystem can be challenging. The following points outline the key functionalities of this tool:
 
 ## Performance Comparison 🚀
