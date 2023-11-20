@@ -41,8 +41,10 @@ This project relies on Microsoft Power BI for data visualization. Ensure that yo
 Follow these steps to use the Cryptocurrency Analysis project on your local machine:
 
 1. **Clone the Repository:**
-   bash: git clone https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-BI.git
-2. **Open Power BI Desktop:**
+
+git clone https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-BI.git
+
+3. **Open Power BI Desktop:**
    
 Launch Power BI Desktop on your machine.
 3. **Open the Project File:**
