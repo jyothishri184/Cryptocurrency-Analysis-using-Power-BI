@@ -24,33 +24,5 @@ Daily Deviation Analysis:
 With thousands of cryptocurrencies in existence, choosing the right investment can be challenging. Many individuals have faced losses due to inadequate information and improper decision-making. This tool aims to empower users with data-driven insights to enhance decision-making processes in cryptocurrency investments.
 
 
-### Technologies Used
-
-<details>
-<summary style="color: #3498db; font-size: 18px;"><strong>Frontend</strong></summary>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
-</details>
-
-<details>
-<summary style="color: #2ecc71; font-size: 18px;"><strong>Backend</strong></summary>
-<ul>
-  <li>Python</li>
-  <li>Flask</li>
-  <li>PostgreSQL</li>
-</ul>
-</details>
-
-<details>
-<summary style="color: #e74c3c; font-size: 18px;"><strong>Data Visualization</strong></summary>
-<ul>
-  <li>Power BI</li>
-  <li>matplotlib (Python)</li>
-  <li>Tableau</li>
-</ul>
-</details>
 
 
