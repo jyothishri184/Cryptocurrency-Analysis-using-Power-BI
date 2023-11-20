@@ -22,3 +22,39 @@ Daily Deviation Analysis:
 
 ## Why Use This Tool?
 With thousands of cryptocurrencies in existence, choosing the right investment can be challenging. Many individuals have faced losses due to inadequate information and improper decision-making. This tool aims to empower users with data-driven insights to enhance decision-making processes in cryptocurrency investments.
+
+
+### Technologies Used
+
+```html
+<div style="display: flex; justify-content: space-around;">
+
+  <div style="background-color: #3498db; color: white; padding: 10px; border-radius: 5px;">
+    <strong>Frontend</strong>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+    </ul>
+  </div>
+
+  <div style="background-color: #2ecc71; color: white; padding: 10px; border-radius: 5px;">
+    <strong>Backend</strong>
+    <ul>
+      <li>Python</li>
+      <li>Flask</li>
+      <li>PostgreSQL</li>
+    </ul>
+  </div>
+
+  <div style="background-color: #e74c3c; color: white; padding: 10px; border-radius: 5px;">
+    <strong>Data Visualization</strong>
+    <ul>
+      <li>Power BI</li>
+      <li>matplotlib (Python)</li>
+      <li>Tableau</li>
+    </ul>
+  </div>
+
+</div>
+
