@@ -11,6 +11,14 @@ Cryptocurrency is a category of digital assets that can be bought, sold, or trad
 - [Power BI for Data Visualization](#power-bi-for-data-visualization)
 - [License](#license)
 
+### Table of Contents
+
+1. [Technologies Used](#technologies-used)
+2. [Setup](#setup)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+   
 ## Introduction 📍
 This repository provides tools and analyses for gaining insights into the cryptocurrency market. Whether you're a seasoned investor or a newcomer, making informed decisions in this vast and evolving ecosystem can be challenging. The following points outline the key functionalities of this tool:
 
