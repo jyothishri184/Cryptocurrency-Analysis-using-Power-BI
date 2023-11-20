@@ -9,6 +9,7 @@ Cryptocurrency is a category of digital assets that can be bought, sold, or trad
 - [Introduction](#introduction)
 - [Performance Comparison](#performance-comparison)
 - [Why Use This Tool?](#why-use-this-tool)
+- [Power BI for Data Visualization](#power-bi-for-data-visualization)
 - [License](#license)
 
 ## Introduction📍
@@ -28,6 +29,10 @@ This repository provides tools and analyses for gaining insights into the crypto
 ## Why Use This Tool?📊
 
 With thousands of cryptocurrencies in existence, choosing the right investment can be challenging. Many individuals have faced losses due to inadequate information and improper decision-making. This tool aims to empower users with data-driven insights to enhance decision-making processes in cryptocurrency investments.
+
+## Power BI for Data Visualization 📈
+
+This project utilizes Power BI, a powerful data visualization tool developed by Microsoft. Power BI enables users to connect to various data sources, create interactive reports and dashboards, and derive meaningful insights. With its intuitive interface and robust analytical capabilities, Power BI is an ideal choice for visualizing and understanding complex datasets, making it an invaluable asset in the field of data analysis.
 
 ## License
 This Power BI Cryptocurrency Analysis project is licensed under the MIT License.
