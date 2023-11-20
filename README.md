@@ -1,13 +1,14 @@
-# ANALYSIS OF CRYPTOCURRENCY USING POWER BI
+# ANALYSIS OF CRYPTOCURRENCY USING POWER BI 🌟
 DATA ANALYSIS PROJECT 
 
-# Cryptocurrency Analysis Tool
+# Cryptocurrency
 Cryptocurrency is a category of digital assets that can be bought, sold, or traded securely, utilizing cryptographic methods. To engage with cryptocurrencies, a cryptocurrency wallet is essential. Unlike traditional payment systems, cryptocurrencies operate independently of banks to confirm transactions. As of the end of 2021, there were 13,669 cryptocurrencies, reflecting the dynamic nature of this digital financial landscape (source: Coin Market Cap).
 
-## Introduction
+## Introduction ![FakerShutUpShtFingerWorldsGIF](https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-BI/assets/106957211/783a6ec6-1f37-425f-a56b-8c8fd26f6600)
+
 This repository provides tools and analyses for gaining insights into the cryptocurrency market. Whether you're a seasoned investor or a newcomer, making informed decisions in this vast and evolving ecosystem can be challenging. The following points outline the key functionalities of this tool:
 
-## Performance Comparison:
+## Performance Comparison 🚀
 
 ⚡Compare and analyze the performance of four prominent cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Binance Coin (BNB), and XRP (XRP).
 Historical Data Analysis:
