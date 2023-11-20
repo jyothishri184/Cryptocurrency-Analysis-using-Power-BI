@@ -36,5 +36,11 @@ This project relies on Microsoft Power BI for data visualization. Ensure that yo
 
 - [Download Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 
+## 📬 Contact
+For any inquiries or feedback regarding the project, feel free to reach out to the creator and maintainer:
+
+**JYOTHI SHRI**
+- Email: [shrijyothi184@gmail.com](mailto:shrijyothi184@gmail.com)
+
 ## License
 This Power BI Cryptocurrency Analysis project is licensed under the MIT License.
