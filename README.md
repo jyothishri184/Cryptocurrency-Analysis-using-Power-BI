@@ -1,12 +1,6 @@
 # Cryptocurrency Analysis Using Power BI 🌟
 **Data Analysis Project**
 
-## Introduction
-📍This is my first project on the data analysis field using Power BI, representing the beginning of my journey into the fascinating world of data analysis.
-
-## Cryptocurrency Overview
-Cryptocurrency, operating independently of banks, uses cryptographic methods for secure transactions through decentralized networks. As of 2021, there were 13,669 cryptocurrencies (source: Coin Market Cap), highlighting the dynamic nature of this digital financial landscape.
-
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [Performance Comparison](#performance-comparison)
@@ -18,10 +12,13 @@ Cryptocurrency, operating independently of banks, uses cryptographic methods for
 8. [License](#license)
 
 ## Introduction
-📍This repository provides tools and analyses for gaining insights into the cryptocurrency market. Whether you're a seasoned investor or a newcomer, making informed decisions in this vast and evolving ecosystem can be challenging. The following points outline the key functionalities of this tool:
+📍This is my first project on the data analysis field using Power BI, representing the beginning of my journey into the fascinating world of data analysis.
+
+## Cryptocurrency Overview
+Cryptocurrency, operating independently of banks, uses cryptographic methods for secure transactions through decentralized networks. As of 2021, there were 13,669 cryptocurrencies (source: Coin Market Cap), highlighting the dynamic nature of this digital financial landscape.
 
 ## Performance Comparison 
- 🚀 **Compare:** Analyze the performance of four prominent cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Binance Coin (BNB), and XRP (XRP).
+ 🚀 **Compare:** Analyze the performance of five prominent cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Binance Coin (BNB), and XRP (XRP).
  
  🚀 **Historical Data:** Evaluate past cryptocurrency performance based on historical data for more informed investment decisions.
  
