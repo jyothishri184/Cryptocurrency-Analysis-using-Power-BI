@@ -1,8 +1,11 @@
 # Cryptocurrency Analysis Using Power BI 🌟
 **Data Analysis Project**
 
+## Introduction
+📍This is my first project on the data analysis field using Power BI, representing the beginning of my journey into the fascinating world of data analysis.
+
 ## Cryptocurrency Overview
-Cryptocurrency is a category of digital assets that can be bought, sold, or traded securely, utilizing cryptographic methods. Operating independently of banks, cryptocurrencies confirm transactions through decentralized networks. As of the end of 2021, there were 13,669 cryptocurrencies, highlighting the dynamic nature of this digital financial landscape (source: Coin Market Cap).
+Cryptocurrency, operating independently of banks, uses cryptographic methods for secure transactions through decentralized networks. As of 2021, there were 13,669 cryptocurrencies (source: Coin Market Cap), highlighting the dynamic nature of this digital financial landscape.
 
 ### Table of Contents
 1. [Introduction](#introduction)
@@ -10,10 +13,10 @@ Cryptocurrency is a category of digital assets that can be bought, sold, or trad
 3. [Why Use This Tool?](#why-use-this-tool)
 4. [Power BI for Data Visualization](#power-bi-for-data-visualization)
 5. [Power BI Requirements](#power-bi-requirements)
-6. [Contact](#contact)
-7. [License](#license)
+6. [How to Use This Project Locally](#how-to-use-this-project-locally)
+7. [Contact](#contact)
+8. [License](#license)
 
-   
 ## Introduction
 📍This repository provides tools and analyses for gaining insights into the cryptocurrency market. Whether you're a seasoned investor or a newcomer, making informed decisions in this vast and evolving ecosystem can be challenging. The following points outline the key functionalities of this tool:
 
@@ -44,9 +47,10 @@ Follow these steps to use the Cryptocurrency Analysis project on your local mach
 
 git clone https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-BI.git
 
-3. **Open Power BI Desktop:**
+2. **Open Power BI Desktop:**
    
 Launch Power BI Desktop on your machine.
+
 3. **Open the Project File:**
 
 Navigate to the cloned repository.
@@ -58,12 +62,6 @@ Open the Power BI project file (.pbix) located in the project directory.
 Interact with the reports and dashboards provided in Power BI Desktop.
 
 Customize and explore the data to gain insights into cryptocurrency performance.
-
-5. **Save and Share:**
-
-Save any changes or customizations you make to the project file.
-Share your findings or customized reports with your team or community.
-   
 
 ## Contact
 For any inquiries or feedback regarding the project, feel free to reach out to the creator and maintainer:
