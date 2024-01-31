@@ -3,13 +3,14 @@
 
 ### Table of Contents
 1. [Introduction](#introduction)
-2. [Performance Comparison](#performance-comparison)
-3. [Why Use This Tool?](#why-use-this-tool)
-4. [Power BI for Data Visualization](#power-bi-for-data-visualization)
-5. [Power BI Requirements](#power-bi-requirements)
-6. [How to Use This Project Locally](#how-to-use-this-project-locally)
-7. [Contact](#contact)
-8. [License](#license)
+2. [Cryptocurrency Overview](#cryptocurrency-overview)
+3. [Performance Comparison](#performance-comparison)
+4. [Why Use This Tool?](#why-use-this-tool)
+5. [Power BI for Data Visualization](#power-bi-for-data-visualization)
+6. [Power BI Requirements](#power-bi-requirements)
+7. [How to Use This Project Locally](#how-to-use-this-project-locally)
+8. [Contact](#contact)
+9. [License](#license)
 
 ## Introduction
 📍This is my first project on the data analysis field using Power BI, representing the beginning of my journey into the fascinating world of data analysis.
