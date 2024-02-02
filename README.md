@@ -12,7 +12,6 @@
 8. [Contact](#contact)
 9. [License](#license)
 
-
 ## Introduction
 📍This is my first project on the data analysis field using Power BI, representing the beginning of my journey into the fascinating world of data analysis.
 
