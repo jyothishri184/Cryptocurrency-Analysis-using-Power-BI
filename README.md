@@ -29,7 +29,7 @@ Cryptocurrency, a digital currency in which transactions are verified and record
 
 1. **Clone the Repository**
 
-```
+``` Bash
 git clone https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-BI.git
 ```
 
@@ -42,6 +42,8 @@ git clone https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-B
 
 
 ## Power BI service
+
+- [Power BI Service](https://app.powerbi.com/)
 
 🏷️ You can also Publish reports to Power BI Service for creating DashBoards
 
