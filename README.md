@@ -53,7 +53,7 @@ Interact with the charts provided in Power BI Desktop.
 
 Here's my Dashboard image
 
-![Screenshot (204)](https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-BI/assets/106957211/980bfdee-2ca6-4819-862f-b24fb9fa10d7)
+![Screenshot (204)](https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-BI/assets/106957211/4ab91c31-6184-4e50-8865-e17f24b887b3)
 ![Screenshot (205)](https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-BI/assets/106957211/eb2fc8ae-8ab6-401d-8a0d-ebfca164df79)
 
 
