@@ -37,7 +37,7 @@ git clone https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-B
    
 3. **Explore and Analyze**
 
-4. **If you want Detailed explanation of the project you can also visit the project report attached**
+4. **If you want Detailed explanation of the project you can also visit the project document attached**
 
 
 
