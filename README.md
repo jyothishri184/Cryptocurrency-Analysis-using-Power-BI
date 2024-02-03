@@ -1,14 +1,14 @@
 # Cryptocurrency Analysis Using Power BI 🪙📊
 
 ### Table of Contents
-1. [Cryptocurrency Overview](#cryptocurrency-overview)
+1. [Project Overview](#project-overview)
 2. [Power BI for Data Visualization](#power-bi-for-data-visualization)
 3. [How to Use This Project Locally](#how-to-use-this-project-locally)
 4. [Contact](#contact)
 5. [License](#license)
 
 
-## Cryptocurrency Overview
+## Project Overview
 📍This is my first project on the field of Data Analysis using Power BI, representing the beginning of my journey into the fascinating world of data analysis.
 
 Cryptocurrency, a digital currency in which transactions are verified and records maintained by a decentralized system using cryptography, rather than by a centralized authority. As of 2021, there were 13,669 cryptocurrencies (source: Coin Market Cap), highlighting the dynamic nature of this digital financial landscape. With thousands of cryptocurrencies in existence, choosing the right investment can be challenging. Many individuals have faced losses due to inadequate information and improper decision-making. This tool aims to empower users with data-driven insights to enhance decision-making processes in cryptocurrency investments.
