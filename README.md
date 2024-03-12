@@ -16,6 +16,8 @@
 Cryptocurrency, a digital currency in which transactions are verified and records maintained by a decentralized system using cryptography, rather than by a centralized authority. With thousands of cryptocurrencies in existence, choosing the right investment can be challenging. Many individuals have faced losses due to inadequate information and improper decision-making. This tool aims to empower users with data-driven insights to enhance decision-making processes in cryptocurrency investments.
 
 
+PROJECT FLOW:
+
 ![Screenshot (203)](https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-BI/assets/106957211/ccffc00e-e092-4ce0-bf9d-c5a226a47e04)
 
 
