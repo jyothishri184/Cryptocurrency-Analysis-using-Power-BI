@@ -61,7 +61,7 @@ Here's my Dashboard image
 
 
 ## Contact
-For any inquiries or feedback regarding the project, feel free to reach out to the creator and maintainer:
+For any inquiries or feedback regarding the project, feel free to reach out to the creator and maintainer: 
 
 **JYOTHI SHRI**
 - Email: [shrijyothi184@gmail.com](mailto:shrijyothi184@gmail.com)
