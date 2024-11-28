@@ -50,7 +50,7 @@ git clone https://github.com/jyothishri184/Cryptocurrency-Analysis-using-Power-B
 
 🏷️ You can also Publish reports to Power BI Service for creating DashBoards
 
-🏷️ Dashboard is a Single page report that **" TELLS YOU A STORY THAT YOU CAN INTRACT WITH ! "**
+🏷️ Dashboard is a Single page report that **" TELLS YOU A STORY THAT YOU CAN INTRACT WITH ! "** 
 
 Here's my Dashboard image
 
